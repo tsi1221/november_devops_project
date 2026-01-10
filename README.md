@@ -54,4 +54,4 @@ http://127.0.0.1:8000/
 <table width="100%"> <tr> <td width="50%"> <p align="center"><strong>Feed Home</strong></p> <img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG"> </td> <td width="50%"> <p align="center"><strong>Room Conversation Preview</strong></p> <img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG"> </td> </tr> </table>
 🙌 Acknowledgment
 
-Special thanks to @Divanov11 for the inspiration and guidance behind this project.
+Special thanks to @Divanov11 for the inspiration and guidance behind this project.guidance behind this project.
